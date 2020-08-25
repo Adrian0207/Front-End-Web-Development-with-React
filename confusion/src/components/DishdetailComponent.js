@@ -18,14 +18,14 @@ class DishDetail  extends Component{
             )
         else
             return(
-                <div>Hola1</div>
+                <div></div>
             );    
     }
 
     renderComments(comments){
         if(comments == null)
             return(
-                <div>Hola2</div>
+                <div></div>
             ); 
 
         const lst = comments.map((comment) => {
@@ -35,9 +35,9 @@ class DishDetail  extends Component{
                     <p>-- {comment.author} ,&nbsp;
                        {new Intl.DateTimeFormat("en-US", {
                             year: "numeric",
-                            month: "long",
+                            month: "short",
                             day: "2-digit"
-                        }).format(new Date(comment.date))}
+                        }).format(new Date(Date.parse(comment.date)))}
                     </p>
                 </li>
             );

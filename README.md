@@ -15,8 +15,20 @@
     ♦Construct the React component code and the view for your component using JSX and JavaScript
 
 -**Note for future me**
+
     ♥npm rm -g create-react-app
     
     ♦npm install -g create-react-app
 
     ♦npx create-react-app app_name
+
+## Week 2:
+-React Component Types
+
+    ♦Identify the salient features and uses for the various types of components
+    
+    ♦Create presentational, container and functional components in your React application
+
+-**Note for future me**
+
+    ♥The MainComponent contain all the Menu and DishDetail components so this component will call them and we called into the App.js 
