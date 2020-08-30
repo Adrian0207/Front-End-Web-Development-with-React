@@ -29,6 +29,12 @@
     
     ♦Create presentational, container and functional components in your React application
 
+-React Router
+
+    ♦Set up the router module to enable navigation among multiple component views
+    
+    ♦Set up the routes to enable the navigation
+
 -**Note for future me**
 
     ♥The MainComponent contain all the Menu and DishDetail components so this component will call them and we called into the App.js 
