@@ -44,3 +44,8 @@
 -**Note for future me**
 
     ♥The MainComponent contain all the Menu and DishDetail components so this component will call them and we called into the App.js 
+
+## Week 3:
+-Controlled Forms
+
+    ♦Design a controlled form in your React application.
