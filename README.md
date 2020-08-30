@@ -35,6 +35,12 @@
     
     ♦Set up the routes to enable the navigation
 
+-Single Page Applications
+
+    ♦Design SPA using React
+    
+    ♦Use the React router to construct SPA
+
 -**Note for future me**
 
     ♥The MainComponent contain all the Menu and DishDetail components so this component will call them and we called into the App.js 
