@@ -49,3 +49,21 @@
 -Controlled Forms
 
     ♦Design a controlled form in your React application.
+
+-Uncontrolled Forms
+
+    ♦Create uncontrolled forms through uncontrolled components in React
+
+    ♦Handle the form submission in the React application
+
+-Introduction to Redux
+
+    ♦Install and Configure Redux in your application
+    
+    ♦Enable your React app to make use of Redux
+
+-React Redux Form
+
+    ♦Configure and use react-redux-form to create Controlled forms
+    
+    ♦Store the form state in the Redux store
