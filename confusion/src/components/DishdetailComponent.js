@@ -71,8 +71,6 @@ const DishDetail = (props) => {
                     <RenderComments comments={props.comments} addComment={props.addComment} dishId={props.dish.id} />
                 </div>
 
-
-
             </div>
         );
     }
